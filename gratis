@@ -69,6 +69,7 @@ https://youtu.be/Hi7ybh87_e8
 
 #EXTINF:-1 group-title="Entertainment",TVN
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+http://gpc.my.id/vidio/tvn.m3u8
 
 #EXTINF:-1 group-title="Entertainment",K+
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
@@ -162,8 +163,15 @@ http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
 http://topwin-tv.my.id/2/master.m3u8?id=disco
 http://iptv.tvmalaysia.cc:80/139664/139664/7078
+http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 #EXTINF:-1  group-title="Knowledge",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge",Smithsonian
+http://gpc.my.id/vidio/smithsonian.m3u8
+#EXTINF:-1 group-title="Knowledge",Outdor
+http://gpc.my.id/usee/outdoor.m3u8
+#EXTINF:-1 group-title="Knowledge",Poeple Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 #EXTINF:-1 group-title="Knowledge",HGTV
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62242
 #EXTINF:-1 group-title="Knowledge",Crime Investigation
@@ -189,7 +197,8 @@ http://Astro TV.tvmalaysia.cc:80/penang172/penang172/6693
  
 #EXTINF:-1 group-title="Knowledge",CGTN DOCUMENTARY 
 http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
-
+#EXTINF:-1 group-title="Knowledge",AFN
+http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge",TLC
 http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge",TLC
@@ -237,6 +246,8 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1 group-title="Kids",Boomerang
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
+#EXTINF:-1 group-title="Kids",EBS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
 
 
 
@@ -387,8 +398,10 @@ https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei
 
 #EXTINF:-1 group-title="Musik" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
 https://youtu.be/Hi7ybh87_e8 
-
-
+#EXTINF:-1 group-title="Musik",Musica
+http://gpc.my.id/vidio/musica.m3u8
+#EXTINF:-1 group-title="Musik",Chanel V
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Musik",BOX Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 group-title="Musik",MALEO TV

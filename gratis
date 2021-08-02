@@ -181,8 +181,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="Knowledge",SILENCE TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8 
-#EXTINF:-1 group-title="Knowledge",Crime Investigation
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62270
 #EXTINF:-1, group-title="Knowledge" tvg-logo="https://telegra.ph/file/a2923d83242d2e31e2e1a.png",Asian Food Network HD 
 http://Astro TV.tvmalaysia.cc:80/penang172/penang172/6693
  

@@ -150,6 +150,7 @@ http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1  group-title="Knowledge",History
+http://topwin-tv.my.id/2/master.m3u8?id=history
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
 http://topwin-tv.my.id/2/master.m3u8?id=disco

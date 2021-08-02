@@ -163,9 +163,9 @@ http://gpc.my.id/usee/outdoor.m3u8
 #EXTINF:-1 group-title="Knowledge",Poeple Awesome
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 #EXTINF:-1 group-title="Knowledge",HGTV
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62242
+https://link.zozotv.xyz:443/Freemium4/unlimited99/85
 #EXTINF:-1 group-title="Knowledge",Crime Investigation
-
+https://link.zozotv.xyz:443/Freemium4/unlimited99/94
 #EXTINF:-1 group-title="Knowledge",AFN
 http://iptv.tvmalaysia.cc:80/139664/139664/8857
 #EXTINF:-1  group-title="Knowledge",Love Nature 4K
@@ -222,15 +222,6 @@ http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="Kids",Cartoon Network
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
-http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Nick Junior
-http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="Kids", NICK 
-http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="Kids", DISNEY CHANNEL
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="Kids", DISNEY JR
-http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 group-title="Kids",ToonMax
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1 group-title="Kids",Boomerang
@@ -238,6 +229,26 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 group-title="Kids",EBS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+#EXTINF:2.44 group-title="Kids",DISNEY CHANEL
+https://link.zozotv.xyz:443/Freemium4/unlimited99/130
+#EXTINF:1 group-title="Kids",DISNEY JUNIOR
+https://link.zozotv.xyz:443/Freemium4/unlimited99/131
+#EXTINF:1.04 group-title="Kids",CARTOON NETWORK
+https://link.zozotv.xyz:443/Freemium4/unlimited99/132
+#EXTINF:1.6 group-title="Kids",DERAMWORK
+https://link.zozotv.xyz:443/Freemium4/unlimited99/134
+#EXTINF:1 group-title="Kids",BOOMERANG
+https://link.zozotv.xyz:443/Freemium4/unlimited99/135
+#EXTINF:1 group-title="Kids",NICK
+https://link.zozotv.xyz:443/Freemium4/unlimited99/136
+#EXTINF:1 group-title="Kids",NICK JR
+https://link.zozotv.xyz:443/Freemium4/unlimited99/137
+#EXTINF:2 group-title="Kids",ZOOMOO
+https://link.zozotv.xyz:443/Freemium4/unlimited99/139
+#EXTINF:1.04 group-title="Kids",BABY FIRST
+https://link.zozotv.xyz:443/Freemium4/unlimited99/141
+#EXTINF:1 group-title="Kids",CBEEBIES
+https://link.zozotv.xyz:443/Freemium4/unlimited99/273
 
 
 

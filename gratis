@@ -14,9 +14,8 @@ http://gpc.my.id/vidio/mnc.m3u8
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
  
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" tvg-id="RIYAN.fc632bc801149ed9c3433423c9c03dac.SHINTA" tvg-name" Indosiar" group-title="Nasional", Indosiar
+http://gpc.my.id/vidio/indosiar.m3u8
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Indosiar Olimpic 
-https://link.zozotv.xyz:443/Freemium4/unlimited99/45
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="Nasional", RCTI
 http://gpc.my.id/vidio/rcti.m3u8
@@ -58,7 +57,7 @@ http://playlist.urfan.web.id/x6bnqe/h/h12/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s107/02.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 group-title="Nasional",Inews
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
+http://gpc.my.id/vidio/inews.m3u8
 #EXTINF:-1 group-title="Nasional",MyTV
 http://goldenlivektv.com/Comot_Lagi_Bae/Mytv_channel_ktv.m3u8
 #EXTINF:-1 group-title="Nasional",UGTV
@@ -141,14 +140,15 @@ https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei
 https://youtu.be/Hi7ybh87_e8 
 
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic 
+http://iptv.tvmalaysia.cc/932633/932633/7075
 http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="Knowledge", Nat Geo People
 http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild
-http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 #EXTINF:-1  group-title="Knowledge",History
 http://topwin-tv.my.id/2/master.m3u8?id=history
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
@@ -159,7 +159,7 @@ http://iptv.tvmalaysia.cc:80/139664/139664/7078
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge",Smithsonian
 http://gpc.my.id/vidio/smithsonian.m3u8
-#EXTINF:-1 group-title="Knowledge",Outdor
+#EXTINF:-1 group-title="Knowledge",Outdoor
 http://gpc.my.id/usee/outdoor.m3u8
 #EXTINF:-1 group-title="Knowledge",Poeple Awesome
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
@@ -170,6 +170,7 @@ https://link.zozotv.xyz:443/Freemium4/unlimited99/94
 #EXTINF:-1 group-title="Knowledge",AFN
 http://iptv.tvmalaysia.cc:80/139664/139664/8857
 #EXTINF:-1  group-title="Knowledge",Love Nature 4K
+http://gpc.my.id/vidio/love-nature.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1  group-title="Knowledge",Popular since
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
@@ -219,6 +220,23 @@ https://youtu.be/Hi7ybh87_e8
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 group-title="Kids",Aniplus
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="Kids",hip-hip-horee
+http://gpc.my.id/vidio/hip-hip-horee.m3u8
+#EXTINF:-1 group-title="Kids",zoomoo
+http://gpc.my.id/vidio/zoomoo.m3u8
+#EXTINF:-1 group-title="Kids",da-vinci
+http://gpc.my.id/vidio/da-vinci.m3u8
+#EXTINF:-1 group-title="Kids",horee
+http://gpc.my.id/vidio/horee.m3u8
+#EXTINF:-1 group-title="Kids",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="Kids",spacetoon
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Kids",indikids
+http://gpc.my.id/usee/indikids.m3u8
+#EXTINF:-1 group-title="Kids",mykids
+http://gpc.my.id/usee/mykids.m3u8
+
 #EXTINF:-1 group-title="Kids",Cartoon Network
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 #EXTINF:-1 group-title="Kids",ToonMax
@@ -228,26 +246,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 group-title="Kids",EBS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
-#EXTINF:2.44 group-title="Kids",DISNEY CHANEL
-https://link.zozotv.xyz:443/Freemium4/unlimited99/130
-#EXTINF:1 group-title="Kids",DISNEY JUNIOR
-https://link.zozotv.xyz:443/Freemium4/unlimited99/131
-#EXTINF:1.04 group-title="Kids",CARTOON NETWORK
-https://link.zozotv.xyz:443/Freemium4/unlimited99/132
-#EXTINF:1.6 group-title="Kids",DERAMWORK
-https://link.zozotv.xyz:443/Freemium4/unlimited99/134
-#EXTINF:1 group-title="Kids",BOOMERANG
-https://link.zozotv.xyz:443/Freemium4/unlimited99/135
-#EXTINF:1 group-title="Kids",NICK
-https://link.zozotv.xyz:443/Freemium4/unlimited99/136
-#EXTINF:1 group-title="Kids",NICK JR
-https://link.zozotv.xyz:443/Freemium4/unlimited99/137
-#EXTINF:2 group-title="Kids",ZOOMOO
-https://link.zozotv.xyz:443/Freemium4/unlimited99/139
-#EXTINF:1.04 group-title="Kids",BABY FIRST
-https://link.zozotv.xyz:443/Freemium4/unlimited99/141
-#EXTINF:1 group-title="Kids",CBEEBIES
-https://link.zozotv.xyz:443/Freemium4/unlimited99/273
 
 
 
@@ -267,6 +265,7 @@ http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/92
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:0 group-title="Movies",FoxFamilyMovie
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/102
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:0 group-title="Movies",Fox HD
@@ -277,18 +276,22 @@ https://link.zozotv.xyz:443/Freemium4/unlimited99/91
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
  
 #EXTINF:-1 group-title="Movies",HBO
-https://link.zozotv.xyz:443/Freemium4/unlimited99/96
+https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 group-title="Movies",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/99
 #EXTINF:-1 group-title="Movies",HBO Signature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/97
 #EXTINF:-1 group-title="Movies",HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/98
 #EXTINF:-1 group-title="Movies",HBO Family
 https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
@@ -297,6 +300,7 @@ https://link.zozotv.xyz:443/Freemium4/unlimited99/98
 #EXTINF:-1 group-title="Movies",CINEMAX
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 #EXTINF:-1 group-title="Movies",RED by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="Movies",RED by HBO
 http://home-tv.web.id/RHS/hbo.m3u8?channel=red

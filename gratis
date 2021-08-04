@@ -80,7 +80,8 @@ http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1 group-title="Entertainment",GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
-
+#EXTINF:-1 group-title="Entertainment",Wakuwaku
+http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
 #EXTINF:-1 group-title="Entertainment",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 #EXTINF:-1 group-title="Entertainment",TVNMOVIES
@@ -140,6 +141,7 @@ https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei
 https://youtu.be/Hi7ybh87_e8 
 
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic 
+http://iptv.tvmalaysia.cc:80/737373/737373/7075
 http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="Knowledge", Nat Geo People
@@ -255,10 +257,10 @@ https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei
 https://youtu.be/Hi7ybh87_e8 
 
 #EXTINF:0 group-title="Movies",FoxMovies
-https://link.zozotv.xyz:443/Freemium4/unlimited99/100
+http://iptv.tvmalaysia.cc:80/737373/737373/8838
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:0 group-title="Movies",Fox Action Movies
-https://link.zozotv.xyz:443/Freemium4/unlimited99/101
+http://iptv.tvmalaysia.cc:80/737373/737373/8839
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:0 group-title="Movies",Foxlife
 https://link.zozotv.xyz:443/Freemium4/unlimited99/92
@@ -271,7 +273,7 @@ http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/90
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:0 group-title="Movies",Fox Crime
-https://link.zozotv.xyz:443/Freemium4/unlimited99/91
+http://iptv.tvmalaysia.cc:80/737373/737373/7225
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
  
 #EXTINF:-1 group-title="Movies",HBO
@@ -511,7 +513,38 @@ https://m3u-editor.com/serve/lahsiapa/347944858
 https://m3u-editor.com/serve/lahsiapa/347944859
 #EXTINF: -1 tvg-id="OLY12" tvg-name="Chanel 12" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olimpiade Tokyo", Chanel 12
 https://m3u-editor.com/serve/lahsiapa/347944860
-
+#EXTINF:-1 tvg-id="OLY1" tvg-name="OLYMPIC AIS  1" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  1
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY2" tvg-name="OLYMPIC AIS  2" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  2
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY3" tvg-name="OLYMPIC 3" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  3
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel3/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY4" tvg-name="OLYMPIC AIS  4" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  4
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel4/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY5" tvg-name="OLYMPIC AIS  5" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  5
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel5/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY6" tvg-name="OLYMPIC AIS  6" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  6
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel6/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY7" tvg-name="OLYMPIC AIS  7" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  7
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY8" tvg-name="OLYMPIC AIS  8" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  8
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel8/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY9" tvg-name="OLYMPIC AIS  9" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  9
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel9/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY10" tvg-name="OLYMPIC AIS  10" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  10
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel10/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY11" tvg-name="OLYMPIC AIS  11" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  11
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel11/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY12" tvg-name="OLYMPIC AIS  12" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  12
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel12/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY13" tvg-name="OLYMPIC AIS  13" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  13
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel13/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY14" tvg-name="OLYMPIC AIS  14" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  14
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel14/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY15" tvg-name="OLYMPIC AIS  15" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  15
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel15/playlist.m3u8
+#EXTINF:-1 tvg-id="OLY16" tvg-name="OLYMPIC AIS  16" tvg-logo="http://syarman.hexat.com/img/ais.png" group-title="Olimpiade Tokyo",OLYMPIC AIS  16
+http://streaming.bhulukhuduktv.amazon.my.id:8081/doofootball_r9/channel16/playlist.m3u8
 
 
 
@@ -572,7 +605,12 @@ https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Champion 1
+http://topwin-tv.my.id/2/master.m3u8?id=champion1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Champion 2
+http://topwin-tv.my.id/2/master.m3u8?id=champion2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Champion 3
+http://topwin-tv.my.id/2/master.m3u8?id=champion3
 
 
 

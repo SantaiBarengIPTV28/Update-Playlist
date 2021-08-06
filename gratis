@@ -7,6 +7,7 @@ https://youtu.be/Hi7ybh87_e8
  
  
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="Nasional", TRANS TV
+http://rr3.dens.tv/s/s72/01.m3u8
 http://gpc.my.id/vidio/trans-tv.m3u8
 http://playlist.urfan.web.id/x6bnqe/s/s252/01.m3u8
 
@@ -280,26 +281,34 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 group-title="Movies",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Signature
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/99
 #EXTINF:-1 group-title="Movies",HBO Signature
+https://www.dropbox.com/s/dl/i77lg3livx7qhzj/carawaktv-hbosig.m3u8
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Hits
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/97
 #EXTINF:-1 group-title="Movies",HBO Hits
+https://www.dropbox.com/s/dl/i6sz78ezl98lrrc/carawaktv-hbohits.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Family
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/98
 #EXTINF:-1 group-title="Movies",HBO Family
+https://www.dropbox.com/s/dl/6xv5cc5aft0g64j/carawaktv-hbofam.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 #EXTINF:-1 group-title="Movies",CINEMAX
+https://www.dropbox.com/s/dl/707ppozbumm1iq6/carawaktv_cinemax.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/98
 #EXTINF:-1 group-title="Movies",CINEMAX
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 #EXTINF:-1 group-title="Movies",RED by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
@@ -343,6 +352,7 @@ http://rr.dens.tv/h/h18/01.m3u8
 #EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV 
 https://link.zozotv.xyz:443/Freemium4/unlimited99/86
 #EXTINF:-1 group-title="Movies",Warner TV
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=warner
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Flik
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0

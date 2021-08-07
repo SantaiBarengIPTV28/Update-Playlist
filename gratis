@@ -279,26 +279,27 @@ http://iptv.tvmalaysia.cc:80/737373/737373/7225
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
  
 #EXTINF:-1 group-title="Movies",HBO
-https://gratismkctv.net/film/hbo.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 #EXTINF:-1 group-title="Movies",HBO
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8
+https://gratismkctv.net/film/hbo.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Signature
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/99
 #EXTINF:-1 group-title="Movies",HBO Signature
 https://www.dropbox.com/s/dl/i77lg3livx7qhzj/carawaktv-hbosig.m3u8
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Hits
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/97
 #EXTINF:-1 group-title="Movies",HBO Hits
 https://www.dropbox.com/s/dl/i6sz78ezl98lrrc/carawaktv-hbohits.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="Movies",HBO Family
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 https://link.zozotv.xyz:443/Freemium4/unlimited99/98
 #EXTINF:-1 group-title="Movies",HBO Family
@@ -311,7 +312,7 @@ https://link.zozotv.xyz:443/Freemium4/unlimited99/98
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 #EXTINF:-1 group-title="Movies",RED by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="Movies",RED by HBO
 http://home-tv.web.id/RHS/hbo.m3u8?channel=red

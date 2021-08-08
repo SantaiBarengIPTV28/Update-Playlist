@@ -4,87 +4,87 @@ https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
 https://youtu.be/Hi7ybh87_e8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" group-title="Nasional",TRANSTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" group-title="NASIONAL",TRANSTV
 rtp://@239.1.1.27:8136
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" group-title="Nasiona",TransTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" group-title="NASIONAL",TransTV HD
 rtp://@239.1.1.194:9138
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="Nasional", MNC
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="NASIONAL", MNC
 http://gpc.my.id/vidio/mnc.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Nasional",INDOSIAR
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="NASIONAL",INDOSIAR
 rtp://@239.1.1.17:8076
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="Nasional", RCTI
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="NASIONAL", RCTI
 http://gpc.my.id/vidio/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" group-title="Nasional",SCTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" group-title="NASIONAL",SCTV
 rtp://@239.1.1.21:8100
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" group-title="Nasiona",SCTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" group-title="NASIONAL",SCTV HD
 rtp://@239.1.2.58:8324
 
-#EXTINF:-1 tvg-logo="http://www.an.tv/app/uploads/2017/07/Logo-Antv-Viva.png" group-title="Nasional",ANTV
+#EXTINF:-1 tvg-logo="http://www.an.tv/app/uploads/2017/07/Logo-Antv-Viva.png" group-title="NASIONAL",ANTV
 rtp://@239.1.1.15:8064
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/800px-Trans_7_2013.svg.png" group-title="Nasional",TRANS7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/800px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS7
 rtp://@239.1.1.29:8148
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/800px-Trans_7_2013.svg.png" group-title="Nasiona",Trans7 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/800px-Trans_7_2013.svg.png" group-title="NASIONAL",Trans7 HD
 rtp://@239.1.1.222:9306
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="Nasional", GTV
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="NASIONAL", GTV
 http://gpc.my.id/vidio/gtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Nasional",NET.
+#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="NASIONAL",NET.
 rtp://@239.1.1.119:8688
-#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Nasiona",NET. HD
+#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="NASIONAL",NET. HD
 rtp://@239.1.1.158:8922
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="Nasional",RTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="NASIONAL",RTV
 rtp://@239.1.1.69:8388
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20140425125902%21New_MetroTV_Logo_2010.png" group-title="Nasional",Metro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20140425125902%21New_MetroTV_Logo_2010.png" group-title="NASIONAL",Metro TV
 rtp://@239.1.1.19:8088
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="HD Channel",CNN Indonesia HD
 rtp://@239.1.1.180:9054
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Nasional",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="NASIONAL",CNN Indonesia
 rtp://@239.1.1.241:9362
 
-#EXTINF:-1 tvg-logo="http://www.tvonenews.tv/assets/img/element/logo-tvone-transp.png" group-title="Nasional",TV One
+#EXTINF:-1 tvg-logo="http://www.tvonenews.tv/assets/img/element/logo-tvone-transp.png" group-title="NASIONAL",TV One
 rtp://@239.1.1.31:8160
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20170424142145%21Logo-Kompas_TV.png" group-title="Nasional",Kompas TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20170424142145%21Logo-Kompas_TV.png" group-title="NASIONAL",Kompas TV
 rtp://@239.1.1.197:9156
 
-#EXTINF:-1 tvg-logo="http://www.beritasatu.com/assets/desktop/v2/images/logo-gede.png" group-title="Nasional",[]Berita Satu
+#EXTINF:-1 tvg-logo="http://www.beritasatu.com/assets/desktop/v2/images/logo-gede.png" group-title="NASIONAL",[]Berita Satu
 rtp://@239.1.1.183:9072
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Jak_tv_%282010%29.png" group-title="Nasional",Jak TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Jak_tv_%282010%29.png" group-title="NASIONAL",Jak TV
 rtp://@239.1.1.107:8616
 
-#EXTINF:-1 tvg-logo="http://jakartafair.co.id/4dm1njfk/assets/uploads/media-partner/fa5fe51d8e3a421b993e321cbfa90c.png" group-title="Nasional",O Channel
+#EXTINF:-1 tvg-logo="http://jakartafair.co.id/4dm1njfk/assets/uploads/media-partner/fa5fe51d8e3a421b993e321cbfa90c.png" group-title="NASIONAL",O Channel
 rtp://@239.1.1.218:9212
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/TVRI_Logo.png" group-title="Nasional",TVRI
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/TVRI_Logo.png" group-title="NASIONAL",TVRI
 rtp://@239.1.1.37:8196
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Nasional",Daai TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="NASIONAL",Daai TV
 rtp://@239.1.1.179:9048
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="Nasional",Bali TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="NASIONAL",Bali TV
 rtp://@239.1.1.72:8406
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/800px-JTV_%282012%29.svg.png" group-title="Nasional",JTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/800px-JTV_%282012%29.svg.png" group-title="NASIONAL",JTV
 rtp://@239.1.1.6:8010
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Antara_logo.svg/800px-Antara_logo.svg.png" group-title="Nasional",Antara TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Antara_logo.svg/800px-Antara_logo.svg.png" group-title="NASIONAL",Antara TV
 rtp://@239.1.1.128:9218
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/06/INtv_Banten.png/800px-INtv_Banten.png" group-title="Nasional",INTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/06/INtv_Banten.png/800px-INtv_Banten.png" group-title="NASIONAL",INTV
 rtp://@239.1.1.162:8946
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="Nasional",TV Edukasi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="NASIONAL",TV Edukasi
 rtp://@239.1.1.39:8208
 
 #KNOWLEDGE
@@ -154,7 +154,7 @@ https://youtu.be/Hi7ybh87_e8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/800px-FYI%2C_logo.svg.png" group-title="LIFESTYLE",fyi
 rtp://@239.1.1.61:8340
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9a/Eat_%26_Go_Transvision.png" group-title="Entertainment",Eat and Go
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9a/Eat_%26_Go_Transvision.png" group-title="ENTERTAINMENT",Eat and Go
 rtp://@239.1.1.229:9350
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/800px-Fashion_TV_logo.svg.png" group-title="LIFESTYLE",Fashion TV
@@ -169,34 +169,34 @@ rtp://@239.1.2.229:9330
 rtp://@239.1.1.127:8736
 
 #GEN ENT
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/800px-E%21_Logo.svg.png" group-title="Entertainment",E!Entertainment
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/800px-E%21_Logo.svg.png" group-title="ENTERTAINMENT",E!ENTERTAINMENT
 rtp://@239.1.1.145:8844
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diva_Universal.svg/800px-Diva_Universal.svg.png" group-title="Entertainment",DIVA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diva_Universal.svg/800px-Diva_Universal.svg.png" group-title="ENTERTAINMENT",DIVA
 rtp://@239.1.1.51:8280
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Entertainment",Animax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="ENTERTAINMENT",Animax
 rtp://@239.1.2.157:8916
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a1/Insert_Transvision.png" group-title="Entertainment",INSERT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a1/Insert_Transvision.png" group-title="ENTERTAINMENT",INSERT
 rtp://@239.1.1.113:8652
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/FOX_Life_%282017%29.png" group-title="MOVIES",FOX Life
 rtp://@239.1.1.171:9000
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png" group-title="Entertainment",Lifetime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png" group-title="ENTERTAINMENT",Lifetime
 rtp://@239.1.1.181:9260
 
-#EXTINF:-1 tvg-logo="http://ultimatebrocation.kix-tv.com/images/kix-logo-dark.png" group-title="Entertainment",KIX
+#EXTINF:-1 tvg-logo="http://ultimatebrocation.kix-tv.com/images/kix-logo-dark.png" group-title="ENTERTAINMENT",KIX
 rtp://@239.1.1.81:8460
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Entertainment",AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="ENTERTAINMENT",AXN
 rtp://@239.1.1.137:8796
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/800px-TV5Monde_Logo.svg.png" group-title="Entertainment",TV5MONDE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/800px-TV5Monde_Logo.svg.png" group-title="ENTERTAINMENT",TV5MONDE
 rtp://@239.1.1.55:8300
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="Entertainment",SONY Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="ENTERTAINMENT",SONY Channel
 rtp://@239.1.1.141:8820
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/800px-FOX_wordmark.svg.png" group-title="MOVIES",FOX
@@ -205,64 +205,64 @@ rtp://@239.1.1.43:8232
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MOVIES",FOX Crime
 rtp://@239.1.1.161:8940
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="Entertainment",FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="ENTERTAINMENT",FX
 rtp://@239.1.1.1:7980
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/800px-Comedy_Central_2011_Logo.svg.png" group-title="Entertainment",Comedy Central
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/800px-Comedy_Central_2011_Logo.svg.png" group-title="ENTERTAINMENT",Comedy Central
 rtp://@239.1.1.9:8028
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="Entertainment",TVN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="ENTERTAINMENT",TVN
 rtp://@239.1.1.135:8784
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png" group-title="Entertainment",KBS World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png" group-title="ENTERTAINMENT",KBS World
 rtp://@239.1.1.167:8976
 
 #EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/aniplus-logo.png" group-title="KIDS",Aniplus
 rtp://@239.1.1.117:8676
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="Entertainment",NHK World Premium
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="ENTERTAINMENT",NHK World Premium
 rtp://@239.1.1.165:8964
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/800px-WakuWaku_Japan_logo.svg.png" group-title="Entertainment",WakuWaku Japan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/800px-WakuWaku_Japan_logo.svg.png" group-title="ENTERTAINMENT",WakuWaku Japan
 rtp://@239.1.1.75:8424
 
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png" group-title="Entertainment",K-Plus
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-ENTERTAINMENT-logo.png" group-title="ENTERTAINMENT",K-Plus
 rtp://@239.1.1.242:9426
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-faPZEUdFnns/V3M19UQxg3I/AAAAAAAACrk/zi27Id9MW0Y/s640/%25255BUNSET%25255D.png" group-title="Entertainment",Hi Indo
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-faPZEUdFnns/V3M19UQxg3I/AAAAAAAACrk/zi27Id9MW0Y/s640/%25255BUNSET%25255D.png" group-title="ENTERTAINMENT",Hi Indo
 rtp://@239.1.1.240:9348
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/Dunia_Lain_Transvision.png" group-title="Entertainment",Dunia Lain
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/Dunia_Lain_Transvision.png" group-title="ENTERTAINMENT",Dunia Lain
 rtp://@239.1.1.149:8868
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c7/Tahan_Tawa_Transvision.png" group-title="Entertainment",Tahan Tawa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c7/Tahan_Tawa_Transvision.png" group-title="ENTERTAINMENT",Tahan Tawa
 rtp://@239.1.1.231:9362
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/800px-Showtime%27s_Showcase_logo.svg.png" group-title="Entertainment",Showcase
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/800px-Showtime%27s_Showcase_logo.svg.png" group-title="ENTERTAINMENT",Showcase
 rtp://@239.1.1.225:9326
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/142_300.png" group-title="Entertainment",Pelangi
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/142_300.png" group-title="ENTERTAINMENT",Pelangi
 rtp://@239.1.1.110:8634
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Australia_Plus_logo.png" group-title="Entertainment",A+ Australian Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Australia_Plus_logo.png" group-title="ENTERTAINMENT",A+ Australian Plus
 rtp://@239.1.1.33:8172
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/800px-Arirang.svg.png" group-title="Entertainment",Arirang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/800px-Arirang.svg.png" group-title="ENTERTAINMENT",Arirang
 rtp://@239.1.1.147:8856
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/800px-CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg.png" group-title="Entertainment",CCTV 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/800px-CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg.png" group-title="ENTERTAINMENT",CCTV 4
 rtp://@239.1.1.115:8664
 
-#EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/CITRADRAMA.png" group-title="Entertainment",Citra Drama
+#EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/CITRADRAMA.png" group-title="ENTERTAINMENT",Citra Drama
 rtp://@239.1.1.44:8238
 
-#EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/CITRAENTERTAINMENT2.png" group-title="Entertainment",Citra Entertainment
+#EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/CITRAENTERTAINMENT2.png" group-title="ENTERTAINMENT",Citra ENTERTAINMENT
 rtp://@239.1.1.109:8628
 
-#EXTINF:-1 tvg-logo="https://oneasiaa.files.wordpress.com/2011/02/mnet_logo11.png" group-title="Entertainment",[5] Channel M
+#EXTINF:-1 tvg-logo="https://oneasiaa.files.wordpress.com/2011/02/mnet_logo11.png" group-title="ENTERTAINMENT",[5] Channel M
 rtp://@239.1.2.135:8784
 
-#EXTINF:-1 tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="Entertainment",SyFy
+#EXTINF:-1 tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="ENTERTAINMENT",SyFy
 rtp://@239.1.2.49:8268
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png" group-title="MOVIES",Universal
@@ -353,15 +353,15 @@ rtp://@239.1.1.226:9332
 rtp://@239.1.1.212:9510
 
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
 https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei=EJHRYMrSJ76Gz7sP7_C54AM&ip=180.243.12.85&id=o-AJN_aqGW_C2E2UEn4WeFGeowucemgS1zbqu-wVO9ewrS&itag=22&source=youtube&requiressl=yes&mh=1_&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nl6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=20&initcwndbps=603750&vprv=1&mime=video%2Fmp4&ns=uIHFUpOg2U6RvUTqccSMfD0F&cnr=14&ratebypass=yes&dur=12.353&lmt=1624110376073887&mt=1624346444&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6211224&n=23401SHWlzq9fFlbD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmuj9SclhU1qWbPzN0i9cTwTP3iolZS0YMPZ33UIIZ6AiBTSPm0wIIGXQlVKghedAb6mY-fI_3K9-pvK76C1LNw7w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgFYUtIcaN9KUia75NdAP3juam_s7JTiztTOT7tQBPHIkCIQD4LpRjtgJUH0Ip54Fc-EVhsoPv47Yp825uDgGg-_ftNg%3D%3D
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
 https://youtu.be/Hi7ybh87_e8 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
 https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei=EJHRYMrSJ76Gz7sP7_C54AM&ip=180.243.12.85&id=o-AJN_aqGW_C2E2UEn4WeFGeowucemgS1zbqu-wVO9ewrS&itag=22&source=youtube&requiressl=yes&mh=1_&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nl6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=20&initcwndbps=603750&vprv=1&mime=video%2Fmp4&ns=uIHFUpOg2U6RvUTqccSMfD0F&cnr=14&ratebypass=yes&dur=12.353&lmt=1624110376073887&mt=1624346444&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6211224&n=23401SHWlzq9fFlbD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmuj9SclhU1qWbPzN0i9cTwTP3iolZS0YMPZ33UIIZ6AiBTSPm0wIIGXQlVKghedAb6mY-fI_3K9-pvK76C1LNw7w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgFYUtIcaN9KUia75NdAP3juam_s7JTiztTOT7tQBPHIkCIQD4LpRjtgJUH0Ip54Fc-EVhsoPv47Yp825uDgGg-_ftNg%3D%3D
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
 https://youtu.be/Hi7ybh87_e8 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
 https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei=EJHRYMrSJ76Gz7sP7_C54AM&ip=180.243.12.85&id=o-AJN_aqGW_C2E2UEn4WeFGeowucemgS1zbqu-wVO9ewrS&itag=22&source=youtube&requiressl=yes&mh=1_&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nl6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=20&initcwndbps=603750&vprv=1&mime=video%2Fmp4&ns=uIHFUpOg2U6RvUTqccSMfD0F&cnr=14&ratebypass=yes&dur=12.353&lmt=1624110376073887&mt=1624346444&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6211224&n=23401SHWlzq9fFlbD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmuj9SclhU1qWbPzN0i9cTwTP3iolZS0YMPZ33UIIZ6AiBTSPm0wIIGXQlVKghedAb6mY-fI_3K9-pvK76C1LNw7w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgFYUtIcaN9KUia75NdAP3juam_s7JTiztTOT7tQBPHIkCIQD4LpRjtgJUH0Ip54Fc-EVhsoPv47Yp825uDgGg-_ftNg%3D%3D
@@ -480,40 +480,40 @@ rtp://@239.1.1.209:9228
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Fox_hd.png" group-title="MOVIES",FOX HD
 rtp://@239.1.1.247:9440
 
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png" group-title="Entertainment",K-Plus HD
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-ENTERTAINMENT-logo.png" group-title="ENTERTAINMENT",K-Plus HD
 rtp://@239.1.1.202:9186
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="Entertainment",NHK World Premium HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="ENTERTAINMENT",NHK World Premium HD
 rtp://@239.1.1.174:9018
 
-#EXTINF:-1 tvg-logo="http://tough.kix-tv.com/Public/images/kix-hd-logo.png" group-title="Entertainment",KIX HD
+#EXTINF:-1 tvg-logo="http://tough.kix-tv.com/Public/images/kix-hd-logo.png" group-title="ENTERTAINMENT",KIX HD
 rtp://@239.1.2.207:9190
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="Entertainment",TVN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="ENTERTAINMENT",TVN HD
 rtp://@239.1.2.211:9202
 
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/uqsxut1436892701.png" group-title="MOVIES",FOX Crime HD
 rtp://@239.1.2.225:9318
 
-#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png" group-title="Entertainment",FX HD
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png" group-title="ENTERTAINMENT",FX HD
 rtp://@239.1.2.227:9324
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" group-title="Entertainment",KBS World HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" group-title="ENTERTAINMENT",KBS World HD
 rtp://@239.1.1.13:8052
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/800px-WakuWaku_Japan_logo.svg.png" group-title="Entertainment",Wakuwaku Japan HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/800px-WakuWaku_Japan_logo.svg.png" group-title="ENTERTAINMENT",Wakuwaku Japan HD
 rtp://@239.1.1.244:9434
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/721_300.png" group-title="Entertainment",AXN HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/721_300.png" group-title="ENTERTAINMENT",AXN HD
 rtp://@239.1.1.245:9436
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diva_Universal.svg/800px-Diva_Universal.svg.png" group-title="HEntertainment",DIVA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diva_Universal.svg/800px-Diva_Universal.svg.png" group-title="ENTERTAINMENT",DIVA HD
 rtp://@239.1.1.24:8118
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Lifetime_us_hd.png/revision/latest/scale-to-width-down/800" group-title="Entertainment",Lifetime HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Lifetime_us_hd.png/revision/latest/scale-to-width-down/800" group-title="ENTERTAINMENT",Lifetime HD
 rtp://@239.1.1.25:8124
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/E%21_Entertainment_HD.png/revision/latest/scale-to-width-down/600" group-title="HD Channel",E!Entertainment HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/E%21_ENTERTAINMENT_HD.png/revision/latest/scale-to-width-down/600" group-title="HD Channel",E!ENTERTAINMENT HD
 rtp://@239.1.1.26:8130
 
 #EXTINF:-1 tvg-logo="http://g.udn.com.tw/upfiles/B_CT/ctpeace5656888xyz777/PSN_PHOTO/742/f_10366742_1.png" group-title="MOVIES",Star Chinese MOVIES HD

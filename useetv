@@ -302,7 +302,7 @@ rtp://@239.1.1.109:8628
 #EXTINF:-1 tvg-logo="https://oneasiaa.files.wordpress.com/2011/02/mnet_logo11.png" group-title="ENTERTAINMENT",[5] Channel M
 rtp://@239.1.2.135:8784
 
-#EXTINF:-1 tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="ENTERTAINMENT",SyFy
+#EXTINF:-1 tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="MOVIES",TVN Movies
 rtp://@239.1.2.49:8268
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png" group-title="MOVIES",Universal

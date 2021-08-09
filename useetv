@@ -55,6 +55,7 @@ rtp://@239.1.1.27:8136
 rtp://@239.1.1.194:9138
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="NASIONAL", MNC
+rtp://@239.1.1.25:8124
 http://gpc.my.id/vidio/mnc.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="NASIONAL",INDOSIAR

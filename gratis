@@ -130,7 +130,9 @@ http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/
 http://210.210.155.35/uq2663/h/h08/index.m3u8                     
  
 #EXTINF:-1 tvg-id="sgem" tvg-logo="http://kamiselaluada.com/img/gem.png" group-title="Entertainment", Sony GEM TV 
-http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8                       
+http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+#EXTINF:-1 group-title="Entertainment",Ctisia
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0                       
  
 #EXTINF:-1 tvg-id="sone" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="Entertainment", Sony One 
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
@@ -359,7 +361,7 @@ http://rr.dens.tv/h/h18/01.m3u8
 #EXTINF:-1, group-title="Movies" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png",Warner TV 
 http://iptv.tvmalaysia.cc:80/penang199/penang199/7072
 #EXTINF:-1 group-title="Movies",Warner TV
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=warner
+http://iptv.tvmalaysia.cc:80/139664/139664/7072
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 #EXTINF:-1 group-title="Movies",IMC
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0

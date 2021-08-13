@@ -154,13 +154,16 @@ https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei
 https://youtu.be/Hi7ybh87_e8 
 
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
 http://iptv.tvmalaysia.cc:80/penang199/penang199/7075
 http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="Knowledge", Nat Geo People
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
 http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild
+http://iptv.tvmalaysia.cc/932633/932633/7081
 http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1  group-title="Knowledge",History

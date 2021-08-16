@@ -1,263 +1,109 @@
 EXTM3U
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
-https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei=EJHRYMrSJ76Gz7sP7_C54AM&ip=180.243.12.85&id=o-AJN_aqGW_C2E2UEn4WeFGeowucemgS1zbqu-wVO9ewrS&itag=22&source=youtube&requiressl=yes&mh=1_&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nl6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=20&initcwndbps=603750&vprv=1&mime=video%2Fmp4&ns=uIHFUpOg2U6RvUTqccSMfD0F&cnr=14&ratebypass=yes&dur=12.353&lmt=1624110376073887&mt=1624346444&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6211224&n=23401SHWlzq9fFlbD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmuj9SclhU1qWbPzN0i9cTwTP3iolZS0YMPZ33UIIZ6AiBTSPm0wIIGXQlVKghedAb6mY-fI_3K9-pvK76C1LNw7w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgFYUtIcaN9KUia75NdAP3juam_s7JTiztTOT7tQBPHIkCIQD4LpRjtgJUH0Ip54Fc-EVhsoPv47Yp825uDgGg-_ftNg%3D%3D
-
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
 https://youtu.be/Hi7ybh87_e8 
- 
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",&TV HD ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62303
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ABC Australia ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62302
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ANTV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62297
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",AXN ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62293
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Al Jazeera English ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62301
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Karem ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62300
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Animal Planet ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62299
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Animax ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62298
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Arirang Korea ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62296
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Asian Food Channel ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62295
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62289
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",BBC World News ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62288
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Baby TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62292
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Bali TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62291
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Berita Satu ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62284
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Besmart ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62283
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Bloomberg ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62282
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Boomerang 1 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62281
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",CCM ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62278
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",CCTV4 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62277
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",CNBC ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62273
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",CNN ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62272
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Cartoon Network ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62279
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Celestial Movies ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62276
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Cinema World ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62274
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",MTA TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62271
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Crime Investigation ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62270
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",DIVA ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62264
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",DW ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62262
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Daai TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62269
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Discovery Channel ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62268
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Disney Channel ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62267
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Disney Junior ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62266
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Drama Channel ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62263
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Padang TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62261
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",EWTN ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62259
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Euronews ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62260
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",FMN ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62257
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fight Sports ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62258
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Reformed 21 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62256
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fox Crime ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62254
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fox Family Movies ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62253
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fox ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62255
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fox Life ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62252
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fox Movies Action ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62250
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fox Movies ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62251
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fox News ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62249
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fox Sports 1 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62248
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fox Sports 2 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62247
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fox Sports 3 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62246
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",France24 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62245
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",GTV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62243
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",HGTV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62242
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Hidayah ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62241
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",History ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62240
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Hits ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62239
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Hits Movies ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62238
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",IDX ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62237
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Indosiar ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62236
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Infotainment ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62234
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",JTV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62232
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Jak TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62233
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",KIX ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62230
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Kids Channel ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62231
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Kompas TV 1 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62229
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Life ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62227
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Life Style Fashion ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62226
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",MNC Channel ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62222
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",MNC Entertainment ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62221
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",MNC News ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62220
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",MNC Shop Smart ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62219
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",MNC Shop Trendy ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62218
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",MNC Sports ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62216
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",MNCTV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62214
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",MYTV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62211
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Metro TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62224
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",MiaoMI ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62223
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Music Channel ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62212
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",NET.1 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62207
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",NHK World Japan ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62204
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Nat Geo ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62210
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",News Asia Channel ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62205
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Nick ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62202
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Nick JR ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62201
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",RCTI ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62199
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",RT English ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62198
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",RTV5 Makin Cakep 1 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62197
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",tvOne ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62195
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",SCM Legend ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62194
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",SCTV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62193
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",S News ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62192
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",RBTV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62191
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Sony One ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62190
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",TLC ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62188
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",TRT World ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62183
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",TV One ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62181
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",TV9 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62180
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",TVN Movies ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62178
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Lifetime ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62175
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",HBO HITS ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62173
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",HBO FAMILY ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62172
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",HBO RED ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62171
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",TVRI ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62177
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",CNN Indonesia ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62163
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Fashion TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62162
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",RCTV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62159
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ANIPlus ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62158
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Asian Food Channel HD ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62156
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Dreamworks ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62150
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Thrill ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62189
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Trans TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62186
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Trans7 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62187
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Wesal TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62185
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",V Channel ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62144
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Waku Waku Japan ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62143
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Warner TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62142
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Zee Bioskop ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62141
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Zee Cinema ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62140
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Zee News ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62139
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Zee TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62138
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Zing ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62137
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN Sports 1 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62286
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN Sports 2 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62287
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",MTA 3 ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/6188
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",iNews ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62235
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",RRI NET ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/78282
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",TV5Monde ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/78288
-#EXTINF:-1 group-title="GenIPTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",TEGAR TV ID
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/78290
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
+https://youtu.be/Hi7ybh87_e8 
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",BEINSPORT PREMIUM 1
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7936
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport Premium 01
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7952
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport Premium 02
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7953
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport Premium 02*
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7954
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport Premium 03
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7955
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport Premium 03*
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7956
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sports 1 HD backup
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/553
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sports 2 HD backup
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/552
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sports 3 HD backup
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/554
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sports 4 HD backup
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/555
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sports 5 HD backup
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/556
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sports 6 HD backup
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/557
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sports 7 HD backup
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/587
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sports 8 HD backup
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/588
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sports 9 HD backup
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/589
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sports 10 HD backup
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/590
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 1 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/3943
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 2 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/3944
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 3 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/3945
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 4 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/3946
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 5 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4194
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 6 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4195
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 7 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4196
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 8 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4197
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 9 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4366
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 10 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4365
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 11 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4364
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein 12 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4363
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj"HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5014
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-2HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5013
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-3HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5012
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-4HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5011
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-5HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5010
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-6HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5009
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-7HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5008
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-8HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5007
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-9HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5006
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj"0HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5005
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj"1HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5004
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",beIN-Sports-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj"2HD VIP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5003
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",(AR) BEINSPORT PREMIUM 1 HD
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7937
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport English 01
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7946
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport English 01*
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7947
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport English 02
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7948
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport English 02*
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7949
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport English 03
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7950
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport English 03*
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7951
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport USA EN
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7957
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport USA SP
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7958
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport Xtra 1
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7959
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport Xtra 2
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7960
+#EXTINF:-1 group-title="Beins Sport" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj", Bein Sport XTRA USA
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7961
